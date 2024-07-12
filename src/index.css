@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  /* background-color: black; */
+}
+
+html {
+  box-sizing: border-box;
+}
+
+body {
+  color: whitesmoke;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  background-color: hsla(224, 64%, 32%, 1);
+  background-image:
+    radial-gradient(at 2% 11%, hsla(271, 100%, 0%, 1) 0px, transparent 50%),
+    radial-gradient(at 93% 12%, hsla(188, 100%, 42%, 1) 0px, transparent 50%),
+    radial-gradient(at 21% 91%, hsla(219, 100%, 95%, 1) 0px, transparent 50%),
+    radial-gradient(at 8% 53%, hsla(220, 100%, 10%, 1) 0px, transparent 50%),
+    radial-gradient(at 57% 97%, hsla(219, 100%, 46%, 1) 0px, transparent 50%);
+}
+
+footer {
+  text-align: center;
+  padding: 10px;
+  background-color: #0C1D3D;
+  color: white;
+
+}
